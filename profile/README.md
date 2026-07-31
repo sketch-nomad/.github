@@ -1,4 +1,4 @@
-# Welcome to Sketch Nomad 🎨✈️
+# Welcome to Sketch Nomad ✏️ 🎨 🌍 
 
 Sketch Nomad is a platform for urban sketchers, travel painters, and outdoor painters.
 
@@ -26,4 +26,4 @@ Please read our contributing guidelines in each repository before submitting you
 
 ---
 
-**Happy sketching from wherever you are! 🎨🌍**
+**Happy sketching from wherever you are! 🎨 🌍**
